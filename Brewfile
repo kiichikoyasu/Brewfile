@@ -9,6 +9,7 @@ cask install eclipse-ide
 cask install firefox
 cask install google-chrome
 cask install google-drive
+cask install java
 cask install karabiner
 cask install skype
 cask install startninja
