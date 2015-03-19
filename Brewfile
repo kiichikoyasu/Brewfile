@@ -11,6 +11,7 @@ cask install google-chrome
 cask install google-drive
 cask install java
 cask install karabiner
+cask install nosleep
 cask install skype
 cask install startninja
 
@@ -23,9 +24,13 @@ tap rcmdnk/file
 install brew-file
 
 # Other Homebrew packages
+install android-ndk
+install android-sdk
+install ant
 install git
 
 # App Store applications
+appstore Caffeine
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
