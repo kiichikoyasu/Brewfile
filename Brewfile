@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install dropbox
 cask install eclipse-ide
+cask install evernote
 cask install firefox
 cask install google-chrome
 cask install google-drive
@@ -27,7 +28,13 @@ install brew-file
 install android-ndk
 install android-sdk
 install ant
+install autoconf
 install git
+install openssl
+install pkg-config
+install rbenv
+install readline
+install ruby-build
 
 # App Store applications
 appstore Caffeine
