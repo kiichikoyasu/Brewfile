@@ -30,6 +30,7 @@ install android-sdk
 install ant
 install autoconf
 install git
+install mysql
 install openssl
 install pkg-config
 install rbenv
