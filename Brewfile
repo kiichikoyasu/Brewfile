@@ -39,6 +39,7 @@ install ruby-build
 
 # App Store applications
 appstore Caffeine
+appstore Dash
 appstore GarageBand
 appstore iMovie
 appstore iPhoto
