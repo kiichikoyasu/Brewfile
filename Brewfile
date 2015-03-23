@@ -8,6 +8,7 @@ cask install dropbox
 cask install eclipse-ide
 cask install evernote
 cask install firefox
+cask install gimp
 cask install google-chrome
 cask install google-drive
 cask install java
