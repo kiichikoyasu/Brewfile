@@ -37,6 +37,7 @@ install pkg-config
 install rbenv
 install readline
 install ruby-build
+install wget
 
 # App Store applications
 appstore Caffeine
