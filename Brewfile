@@ -4,6 +4,8 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install atom
+cask install audacity
 cask install coteditor
 cask install dropbox
 cask install eclipse-ide
